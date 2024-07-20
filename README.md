@@ -23,16 +23,14 @@ ADVANCED:
 2. Analyze the cumulative revenue generated over time.
 3. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
-
-
 📉Insight:
-· Large pizzas are the most commonly ordered size, accounting for 18526 orders.
-· The Thai Chicken Pizza emerges as a top revenue generator.
-· Average pizza sales stands out at 138.
-· Veggie category peaks at 9.
-· Total Revenue generated from pizza sales is 817860.05
-· The Classic Deluxe Pizza is the most ordered type, totaling 2453 orders.
-· Classic pizza dominates total revenue with a contribution of 26.91%.
+Large pizzas are the most commonly ordered size, accounting for 18526 orders.
+The Thai Chicken Pizza emerges as a top revenue generator.
+Average pizza sales stands out at 138.
+Veggie category peaks at 9.
+Total Revenue generated from pizza sales is 817860.05
+The Classic Deluxe Pizza is the most ordered type, totaling 2453 orders.
+Classic pizza dominates total revenue with a contribution of 26.91%.
 
-##Tools and Database Used:
+## Tools and Database Used:
 MySQL Workbench
